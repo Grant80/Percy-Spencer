@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>New webpage</title>
+    </head>
+    <body>
+    <style>
+       body{
+           font-family:sans-serif;
+           
+          
+       } 
+       h1{
+           text-align:center;
+           font-weight:25;
+           
+       }
+       h3{
+         text-align:center;  
+         font-weight:25;
+       }
+       span{
+           margin-left:44px;
+       }
+       #img{
+           float:left;
+           
+       }
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+        <h1>
+        Percy Spencer    
+        </h1>
+        <h3>By: Grant Meyerle</h3>
+        <p><span></span>In 1946 the microwave oven was invented, which changed lives around the world. If the invention of the microwave oven and Percy Spencer interest you keep reading and let’s dive in. </p>
+        <img src="https://www.massmoments.org/files/assets/moments/07-19-1894/07_19_1894.jpg"id = "img">
+        <p><span></span>Percy Spencer was born in 1894 in Howland, Maine. At 18 months old his dad died and he had to live with his aunt. At the age of 12, he dropped out of school to work in a sewing mill. Though he was not in school he still was an avid learner, conducting electric experiments in his free time. At the age of 18, he joined the US Navy as a radio operator. After he retired from the military he got a job at The American Appliance Company in Cambridge where he further investigated Physics. In the midst of World War II (WWII), the British government contacted the  American Appliance Company in Cambridge, now called Raytheon, and asked them to start manufacturing radar equipment for the Allies in WWII. Responding to this request, Spencer and his co-workers got to work on this new radar, which gave the Allies a significant edge in the radar field. After completing this project Spencer noticed that magnetrons, a device that converts power into radio waves could only be produced at a rate of 17 units per day. With this information, Spencer was determined to increase this number. Once Spencer was finished they could finally produce 2,600 magnetrons per day! Upon completion of this project, he was eager to start a new one. When one day, he was going to work and noticed his snack had melted, this sparked the idea of the microwave oven. With this thought, he changed the home appliance world forever.
+</p>
+<p><span></span>The microwave oven is a fascinating contraption, which makes your mind rattle when researching it. The mechanism works when you plug it in, this makes the electrons flow into the magnetron. When the electrons reach the magnetron, with the help of magnets the electrons vibrate making microwaves. When these microwaves hit the food it causes the molecules to shake making friction. This friction causes heat and thus warming your food. 
+</p>
+<p><span></span>The microwave oven is a truly amazing invention that took a truly amazing person to discover. I think we take this item for granted because the concept is so simple, but it is actually a complex contraption.  The microwave oven modernized kitchen appliances for the better. 
+
+</p>
+<p>Learn More on <a href="https://en.wikipedia.org/wiki/Percy_Spencer">Wikipedia</a></p>
+    </body>
+</html>
